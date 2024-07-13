@@ -1,0 +1,1 @@
+Procreate Pocket is the version of the Procreate app for phone. As such, it has fewer features that the larger
