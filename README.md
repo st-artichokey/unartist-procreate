@@ -4,7 +4,7 @@ This guide has two sections: one for [Procreate Pocket](https://procreate.com/po
 
 This is an unofficial guide with much gratitude to the welcoming and helpful Procreate community and to those blogs who have provided amazing walkthroughs and how-tos.
 
-This repo does not represent the official guides available for Procreate and are intended for hobby use only.
+This repo does not represent the official guides available for Procreate and is intended for hobby use only.
 
 ## Why Un-Artist's?
 
