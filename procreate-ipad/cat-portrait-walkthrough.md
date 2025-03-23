@@ -1,13 +1,13 @@
 # How to Pet Portrait
 
-If you have ever wanted to put your pet's photo on a work of art (historical, creative commons, etc), this walkthrough is the walkthrough for you.
+If you have ever wanted to put your pet's photo on a work of art (historical, creative commons, etc), this walkthrough is for you. Unlike the original painting, no deep understanding of art is needed and, given the right tools, you can even do this on your phone.
 
-I started doing this when I realized that it was easier to digitally add a costume to my cat than to try to get him into one. The result is just as cute (if not more so) and neither one of us has to suffer.
+I personally I started these types of projects when I realized that it was easier to digitally add a costume to my cat than to try to get him into one. The result is just as cute (if not more so) and neither one of us has to suffer.
 
 You will need the following for this project:
 
-- picture of your pet 
-- historical portrait (public domain/creative commons is your friend)
+- picture of your pet
+- historical portrait
 - digital art/photo editing software. I use Procreate on the iPad, although you can also use Procreate Pocket on your phone
 - stylus for the above (I use the apple pencil, but whatever stylus you use for your device is fine)
 
@@ -21,15 +21,17 @@ Portraits of the subject from the torso up are typically the best for this type 
 
 ## Your Pet's Photo
 
-Once you have the portrait you want to use, find a photo of your pet where both your pet and the subject of the portrait are looking in the same or a similar direction. If they are looking in opposite directions (or are quarter profile vs full profile, for example), the picture will look less natural and more like you taped your pet into a historical painting.
+Once you have the portrait you want to use, find a photo of your pet where both your pet and the subject of the portrait are looking in the same or a similar direction. If your pet and the person are looking in opposite directions (or are quarter profile vs full profile, for example), the picture will look less natural and more like you taped your pet into a historical painting.
 
 Next when selecting your pet picture, you will want a higher resolution photo that is clear and not blurry. The higher the resolution the better, although most phone cameras these days will do the job.
 
-Try to get a good shot of your pet's entire head and chest with good lighting. You don't need studio lighting or anything fancy, but if the image is too dark, it will be harder to incorporate into most portraits.
+Try to get a good shot of your pet's entire head and chest with good lighting. You don't need studio lighting or anything fancy, but if the image is too dark, it will be harder to incorporate into most portraits. Make sure their entire head is in the photo as you will likely want to have their entire cute face in the portrait, including ears (if they have them).
 
-The photo should be in focus. Blurry photos or action shots won't work for this. Taking an in-focus photo may be difficult as some pets don't like their photo being taken, so a bribe for this part of the process is a good idea [1].
+The photo should be in focus. Blurry photos or action shots won't work for this. Taking an in-focus photo may be difficult as some pets don't like their photo being taken, so a bribe for this part of the process is a good idea [^1].
 
 You will also want to get a photo with just your pet in it if possible. I use the [iPhone's subject lift](https://support.apple.com/guide/iphone/lift-a-subject-from-the-photo-background-iphfe4809658/ios) to extract the photo of my pet. It tends to grab the image I want pretty well and exclude background image clutter, making the photo editing process much easier. However, if there is another human or pet in the photo, it will typically lift them as well.
+
+If you don't use or don't have access to this tool or a similar one that's ok. It just means a bit more work later on but won't be a blocker for this project. 
 
 ## Portrait Plus Pet
 
@@ -43,7 +45,7 @@ If you aren't using the abovementioned iPhone lift-share technology, or don't ha
 
 Add the portrait to the canvas size you want (I typically use 4x6 with 300 DPI). Then, add the picture as a separate layer. In Procreate this is `add -> insert a photo`. This is only if you have the images in your camera roll, if not you will use the `insert a file` option for wherever you have the images stored.
 
-Next, trim out any excess background from your pet photo and adjust the pet image so that it fits over the face of in the portrait.
+Trim out any excess background from your pet photo and adjust the pet image so that it fits over the face of in the portrait.
 
 ![Step one, choose cat](/procreate-ipad/Assets/cat-portrait-gifs/1-choose-image.GIF)
 
@@ -55,13 +57,13 @@ After you get the general shape of the pet image set, you'll want to start fitti
 
 ![Step three, clean edges](/procreate-ipad/Assets/cat-portrait-gifs/3-clean-edges.GIF)
 
-Next, you will duplicate the layer with the portrait and move it above the layer with the pet photo. Remove the parts of the portrait's face you don't need for your pet photo. This is how I got the wig over the cat's ear, which makes the photo look more realistic. This also works for hats or other headpieces.
+Next, you will duplicate the layer with the portrait and move it above the layer with the pet photo. Remove the parts of the portrait's face you don't need for your pet photo. For example, this is how I got the wig over the cat's ear, which makes the photo look more realistic. This also works for hats, jewelry, or other headpieces you might want to incorporate from the portrait.
 
 ![Step four, add overlay](/procreate-ipad/Assets/cat-portrait-gifs/4-add-overlayer.GIF)
 
-Finally, the original shape of the portrait may not be the size of the canvas you selected. To fix this, I cut and pasted the top part of the portrait several times. Then I flipped each pasted layer a different direction, which gave me enough of the painting edge texture to work with. With each layer, I blend and eraser the edges until I feel like I've reached a similar texture to the original painting.
+Finally, the original shape of the portrait may not be the size of the canvas you selected. To fix this, I cut and pasted the top part of the portrait several times. Then I flipped each pasted layer a different direction, which gave me enough of the painting edge texture to work with. With each layer, I blend and erase the edges until I feel like I've reached a similar texture to the original painting.
 
-For this, I use whatever brush works to blend the painting style. For the portrait you selected, try out a couple blend and eraser brushes until you get it looking the way you want it to. I tend to use the paintbrush-type brushes for this but sometimes brushes like concrete-texture are also helpful.
+There's no need to use a particular brush for this. I use whatever brush works to blend the painting style. For the portrait you selected, try out a couple blend and erase brushes until you get it looking the way you want it to. I tend to use the paintbrush-type brushes but sometimes brushes like concrete-texture are also helpful.
 
 ![Step five, fix border](/procreate-ipad/Assets/cat-portrait-gifs/5-fix-border.GIF)
 
@@ -71,5 +73,4 @@ And then you're done! Congratulations on adding your pet to a historical paintin
 
 ![Norm-mozart](/procreate-ipad/Assets/cat-portrait-gifs/Normozart.jpg)
 
-
-[1] Pets like dogs and cats can see the ultraviolet that phone cameras use to focus. Soo if they aren't used to it, the light will appear bright and uncomfortable. I suggest treats and telling them they are a good boy/girl/etc as a means of recompensing them for this experience. My cat Norman loves attention and has come to associate picture time with attention time. He is a good boy and gets many scritches.
+[^1]: Pets like dogs and cats can see the infrared light that phone cameras use to focus. So if they aren't used to it, the light will appear bright and uncomfortable. I suggest treats and telling them they are a good boy/girl/etc as a means of recompensing them for this experience. My cat Norman loves attention and has come to associate picture time with attention time. He is a good boy and gets many scritches.
